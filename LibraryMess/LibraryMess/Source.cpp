@@ -5,8 +5,9 @@
 
 void clearbuffer(char* arr, int count);
 
-int main() 
+int main()
 {
+	printf_s("Testing gitignore");
 	char input[200];
 	char buffer[20];
 	int i = 0;
@@ -40,5 +41,5 @@ int main()
 		}
 
 
-
+	}
 	}

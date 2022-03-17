@@ -1,2 +1,3 @@
 ﻿  Source.cpp
+C:\Users\Danila\Desktop\Solutions\LibraryMess\LibraryMess\Source.cpp(22,6): warning C4101: result: неиспользованная локальная переменная
   LibraryMess.vcxproj -> C:\Users\Danila\Desktop\Solutions\LibraryMess\x64\Debug\Square.exe
