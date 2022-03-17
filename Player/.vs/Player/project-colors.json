@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad4380a5-354e-408c-bc95-8541455bd308": {
+      "ProjectGuid": "ad4380a5-354e-408c-bc95-8541455bd308",
+      "DisplayName": "Player",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
