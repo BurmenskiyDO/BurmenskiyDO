@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+C:\Users\Danila\Desktop\Solutions\CSFML\x64\Release\CSFML.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
